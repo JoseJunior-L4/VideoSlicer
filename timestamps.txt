@@ -1,0 +1,39 @@
+00:02 Intro
+07:23 Get a Domain Name And Webhosting
+09:55 Choose Your Domain Name
+13:20 Install WordPress
+16:57 The Backend And Frontend Of Your Website
+20:29 Choose The Best Permalink Settings
+25:43 Get The Divi Theme
+30:54 Upload Your Site Logo
+32:10 Create Global Colors
+33:17 Create a Menu With Pages
+37:45 Create A Site Title
+40:57 The Basics Of The Divi Builder
+57:57 Create The Homepage From Scratch
+01:07:26 Find The Right Fonts For Your Website
+01:12:08 Optimise Your Website For All Devices
+01:17:08 Showcase Logo’s of Companies You Work For
+01:21:54 Use Custom CSS in the Divi Theme
+01:30:42 More Design Tricks
+01:32:04 Change The Default Fonts In Your Divi Website
+01:38:50 Add an Image to The Background
+01:43:16 Hide Modules On Different Devices
+01:45:05 Create a Specialty Area Using The Divi Theme
+02:06:00 Create a Contact Form Using The Divi Theme
+02:10:28 Add Scroll Effects
+02:11:55 Create A Custom Header
+02:13:45 Import The Header For Free
+02:20:08 Copy and Paste Styles
+02:21:22 Extend Styles
+02:23:07 Copy and Paste Modules
+02:25:59 Clone Existing Pages
+02:27:10 Make Use of Pre Made Layouts In The Divi Theme
+02:28:31 Speed Up Your Workflow
+02:43:36 Create A Custom Footer
+02:46:00 Create A Blog And Blogposts
+02:47:59 Create A Portfolio
+02:49:16 Use Global Items In The Divi Theme
+02:53:51 Import a Complete Website Page by Page
+03:00:11 The Best Follow Up Tutorials
+03:07:55 Thank You For Watching This Divi Tutorial
